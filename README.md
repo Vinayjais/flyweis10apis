@@ -12,3 +12,7 @@ test this APIs on postMan on http://localhost:4000/apis
 9. get('/wallet/:userId') with params userId, will get response of wallet detailes of  user a object.
 10. get('/balance/:userId') with params userId, will get response of balance.
 11. post('/add-cash') with body userId and amount, will get response of added successfully.
+
+
+I have connected this server to mysql database so , for using database please create schema and use your mysql password.
+i created user modal in database for user profile .
