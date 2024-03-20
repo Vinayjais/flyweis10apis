@@ -16,3 +16,8 @@ test this APIs on postMan on http://localhost:4000/apis
 
 I have connected this server to mysql database so , for using database please create schema and use your mysql password.
 i created user modal in database for user profile .
+
+To run this app, download this project
+install node_module using npm I
+run command npm start, server will be start on localhost:4000/
+now test apis.
